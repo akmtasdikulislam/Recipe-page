@@ -35,7 +35,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - [Solution URL here](https://github.com/akmtasdikulislam/Recipe-page)
-- [Live site URL here](https://your-live-site-url.com)
+- [Live site URL here](https://akmtasdikulislam.github.io/Recipe-page/)
 
 ## My process
 
